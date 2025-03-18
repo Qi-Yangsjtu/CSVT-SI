@@ -13,17 +13,17 @@ Volumetric video represents a significant leap forward in capturing, processing,
 
 Prospective authors should submit their manuscripts following the IEEE T-CSVT guidelines at https://ieee-cas.org/publication/tcsvt/tcsvt-manuscript-submission-guide.  Authors should submit a PDF version of their complete manuscript to https://ieee.atyponrex.com/submission/dashboard?siteName=TCSVT according to the following schedule:
 
-Submission deadline:  1st April 2025
+Submission deadline:  1st May 2025
 
-First Review: 1st June 2025
+First Review: 1st Julu 2025
 
-Revisions due: 1st July 2025
+Revisions due: 1st August 2025
 
-Second Review： 1st August 2025
+Second Review： 1st September 2025
 
-Final Manuscripts： 1st September 2025
+Final Manuscripts： 1st October 2025
 
-Publication data: 15th September 2025
+Publication data: 15th October 2025
 
 ### Guest Editors:
 
